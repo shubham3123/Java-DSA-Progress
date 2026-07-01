@@ -1,4 +1,4 @@
-package BinaryTree;
+
 public class BinaryTree_inorderTraversal {
 
     // 1. Change Object to Node so Java knows exactly what it's working with
