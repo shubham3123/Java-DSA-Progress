@@ -1,3 +1,4 @@
+package Algorithms;
 public class LinearSearch_ALGO {
     public static int search(int[] arr, int target){
         for (int i=0; i < arr.length; i++){

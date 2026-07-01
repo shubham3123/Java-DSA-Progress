@@ -1,3 +1,4 @@
+package Algorithms;
 public class BinarySearch_ALGO {
     public static int search(int [] arr, int target) {
         int low = 0;
